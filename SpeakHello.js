@@ -30,4 +30,4 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
-© 2020 GitHub, Inc.
+
